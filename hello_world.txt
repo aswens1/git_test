@@ -1,1 +1,2 @@
 This is me entering some text for this project.
+Making a change to test the commit.
